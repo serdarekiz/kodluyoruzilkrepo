@@ -4,7 +4,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 ![Proje Gorseli](https://github.com/serdarekiz/kodluyoruzilkrepo/blob/main/image.png)
 
 # Installation
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın. 
 
 `git clone https://github.com/serdarekiz/kodluyoruzilkrepo.git`
 
